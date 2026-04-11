@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hola, soy Job Pulache
 
-<!--
-**pulachecarrenojob-pixel/pulachecarrenojob-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador de software enfocado en sistemas web  
+🚀 Especializado en PHP, MySQL y JavaScript  
+📊 Experiencia desarrollando sistemas ERP y soluciones administrativas  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías
+- PHP / Laravel  
+- MySQL / SQL Server  
+- JavaScript  
+- C# / Java
+- Python 
+
+---
+
+## 🚀 Proyectos Destacados
+- 🏢 Sistema ERP (en desarrollo)  
+- 📚 Sistema de gestión de ferreteria
+
+---
+
+## 📈 Actualmente
+- Mejorando mi portafolio de desarrollo  
+- Construyendo sistemas empresariales  
+
+---
+
+## 📫 Contacto
+- ✉️ pulachecarrenojob@gmail.com
