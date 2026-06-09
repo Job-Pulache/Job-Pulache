@@ -38,8 +38,8 @@
 
 ## 🚀 Proyectos Destacados
 
-- 🏢 Sistema ERP (en desarrollo)  
-- 📚 Sistema de gestión de alumnos  
+- 🏢 Sistema ERP  
+- 📚 Aplicación movil para odontologos 
 
 ---
 
