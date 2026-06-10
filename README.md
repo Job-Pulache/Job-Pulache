@@ -29,9 +29,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pulachecarrenojob-pixel&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Job-Pulache&show_icons=true&theme=tokyonight"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pulachecarrenojob-pixel&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Job-Pulache&theme=tokyonight"/>
 </p>
 
 ---
