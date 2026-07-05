@@ -13,6 +13,8 @@
 🚀 Desarrollo aplicaciones web que resuelven problemas reales  
 📊 Experiencia en ERP y sistemas administrativos  
 
+
+
 ---
 
 ## ⚙️ Tecnologías
@@ -39,10 +41,10 @@
 ## 🚀 Proyectos Destacados
 
 - 🏢 Sistema ERP  
-- 📚 Aplicación movil para odontologos 
+- 📚 Aplicación movil para odontologos
 
 ---
 
-## 📫 Contacto
+## 📫 Contactame
 
 📧 pulachecarrenojob@gmail.com
